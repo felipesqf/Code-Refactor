@@ -14,32 +14,33 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
-.header h1 {
+                        /* Felipe Ferreira changes 16/08/2020 */
+                        /* Targeting the h1 and span instead of class header */
+h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .seo {
+span{
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-.header div ul {
+                    /* Felipe Ferreira changes 16/08/2020 */
+                    /* Ino ist-style-type needed */
+/* .header nav ul {
     list-style-type: none;
-}
+}*/
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
+} 
 
 a {
     color: #ffffff;
@@ -76,39 +77,46 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.benefits {
+.benefits{
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
     height: 100%;
-    /* Felipe Ferreira changes 16/08/2020 */
-    /* Include font-family in the higer level */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    color: #ffffff;
 }   
-
-.benefit-lead {
+.benefits section{
     margin-bottom: 32px;
-    /* color: #ffffff; */
+    color: #ffffff;
 }
-
-.benefit-brand{
-    margin-bottom: 32px;
-    /* color: #ffffff; */
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    /* color: #ffffff; */
-}               
                 /* Felipe Ferreira changes 16/08/2020 */
-                /* Concatenating h3 styles*/
+                /* Concatenating img styles into benefits img*/
+
 h3{
     margin-bottom: 10px;
     text-align: center;
+}
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+} 
+
+/* .benefit-lead {
+    margin-bottom: 32px;
+    /* color: #ffffff; 
+}*/
+
+/* .benefit-brand{
+    margin-bottom: 32px;
+    color: #ffffff; 
+}*/
+
+/* .benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff; 
 }
 /* .benefit-lead h3 {
     margin-bottom: 10px;
@@ -125,14 +133,6 @@ h3{
     margin-bottom: 10px;
     text-align: center;
 } */
-
-                /* Felipe Ferreira changes 16/08/2020 */
-                /* Concatenating img styles into benefits img*/
-.benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 /* .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -153,12 +153,22 @@ h3{
 
                     /* Felipe Ferreira changes 16/08/2020 */
                     /* Moving the stype of the ID to the section*/
-section {
+.content section {      /*CONTENT*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
     color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+                    /* Felipe Ferreira changes 16/08/2020 */
+                    /* Concatenating h2 and img styles */
+img{
+    max-height: 200px;
+}
+h2{
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 /* #search-engine-optimization {
     margin-bottom: 20px;
@@ -186,12 +196,6 @@ section {
     /* background-color: #0072bb;
     color: #ffffff;
 } */
-
-                    /* Felipe Ferreira changes 16/08/2020 */
-                    /* Concatenating h2 and img styles */
-img{
-    max-height: 200px;
-}
 /* .search-engine-optimization img {
     max-height: 200px;
 }
@@ -203,12 +207,6 @@ img{
 .social-media-marketing img {
     max-height: 200px; 
 }*/
-
-h2{
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 /* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
