@@ -70,10 +70,10 @@ p {
 
 .benefits{
     margin-right: 20px;
-    padding: 20px;
+    padding: 20px; 
     clear: both;
     float: right;
-    width: 20%; /* it was 20*/
+    width: 20%; 
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
@@ -90,10 +90,12 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+                /* Felipe Ferreira changes 16/08/2020 */
+                /* included the height and commented the margin bottom to be aligned with the content*/
 .benefits section{
-    margin-bottom: 32px;
+    /* margin-bottom: 32px; */
     color: #ffffff;
+    height: 300px;
 }
                     /* Felipe Ferreira changes 16/08/2020 */
                     /* Moving the stype of the ID to the section*/
