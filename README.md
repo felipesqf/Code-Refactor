@@ -1,4 +1,4 @@
-# TITLE
+# Title
 This is a Horiseon marketing agency front end website made in Html and CSS.
 ​
 ## Contents
@@ -10,38 +10,32 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ​
 ## Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-
+GIVEN a webpage meets accessibility standards<br>
+WHEN I view the source code<br>
+THEN I find semantic HTML elements<br>
+WHEN I view the structure of the HTML elements<br>
+THEN I find that the elements follow a logical structure independent of styling and positioning<br>
+WHEN I view the image elements<br>
+THEN I find accessible alt attributes<br>
+WHEN I view the heading attributes<br>
+THEN they fall in sequential order<br>
+WHEN I view the title element<br>
+THEN I find a concise, descriptive title<br>
 
 ## Built With
 * [VScode](https://code.visualstudio.com/) - The editor of choice
 * [Terminal](https://gitforwindows.org/) - What would we do without our bash?
 ​
-#### Initial interface
-screenshots
-gifs
-​
 #### Final Interface
-end product (not relevant all the time)
-​
-​
+​![screenshot1](https://github.com/felipesqf/home-work-1/blob/master/images/screenshot1.jpg) 
+![screenshot1](https://github.com/felipesqf/home-work-1/blob/master/images/screenshot2.jpg)
+
 ### Licence
 Create new file on GitHUB=> name it License.md => select license from the right button
 ​
 ### Link to the Website
 <a href="https://felipesqf.github.io/home-work-1/">Link to the Horiseon website</a>
 
-​
 ## Authors
 Felipe Ferreira  <br><br>
 Contact information:<br>
