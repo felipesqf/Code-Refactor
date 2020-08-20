@@ -27,8 +27,8 @@ THEN I find a concise, descriptive title<br>
 * [Terminal](https://gitforwindows.org/) - What would we do without our bash?
 ​
 #### Final Interface
-​![screenshot1](https://github.com/felipesqf/home-work-1/blob/master/images/screenshot1.jpg) 
-![screenshot1](https://github.com/felipesqf/home-work-1/blob/master/images/screenshot2.jpg)
+​![screenshot1](https://github.com/felipesqf/home-work-1/blob/master/images/screeshot1.JPG) 
+![screenshot1](https://github.com/felipesqf/home-work-1/blob/master/images/screeshot2.JPG)
 
 ### Licence
 Create new file on GitHUB=> name it License.md => select license from the right button
