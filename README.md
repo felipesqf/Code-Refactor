@@ -28,7 +28,7 @@ THEN I find a concise, descriptive title
 * [Terminal](https://gitforwindows.org/) - What would we do without our bash?
 ​
 #### Initial interface
-<hr>
+
 ​
 screenshots
 gifs
@@ -43,18 +43,20 @@ end product (not relevant all the time)
 Create new file on GitHUB=> name it License.md => select license from the right button
 ​
 ### Link to the App
-<a href=".">Link to the App</a><hr>
-<hr>
+<a href="https://felipesqf.github.io/home-work-1/  ">Link to the App</a><hr>
+
 ​
-## Authors
-​
+## Acknowledgments
+
+​<p>
 Felipe Ferreira 
 Contact information:
 
 felipesqf@gmail.com
 Github: felipesqf
 +61 0406 021 252
-​
+​​<p> 
+
 ## Acknowledgments
 ​
 To Teacher and TA's:
