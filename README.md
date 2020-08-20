@@ -31,7 +31,7 @@ THEN I find a concise, descriptive title<br>
 ![screenshot1](https://github.com/felipesqf/home-work-1/blob/master/images/screeshot2.JPG)
 
 ### Licence
-Create new file on GitHUB=> name it License.md => select license from the right button
+N/A.
 ​
 ### Link to the Website
 <a href="https://felipesqf.github.io/home-work-1/">Link to the Horiseon website</a>
